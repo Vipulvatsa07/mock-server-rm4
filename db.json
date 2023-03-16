@@ -1,8 +1,14 @@
 {
-    "data":[
+    "hotels":[
         {
             "id":1,
             "name":"vipul"
+        }
+    ],
+    "users":
+    [
+        {
+            
         }
     ]
 }
